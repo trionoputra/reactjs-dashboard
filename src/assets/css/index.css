@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'titillium-bold';
+  src: url('../fonts/titilliumweb-bold-webfont.woff2') format('woff2'),
+       url('../fonts/titilliumweb-bold-webfont.woff') format('woff'),
+       url('../fonts/titilliumweb-bold-webfont.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+
+}
+
+@font-face {
+  font-family: 'titillium-light';
+  src: url('../fonts/titilliumweb-light-webfont.woff2') format('woff2'),
+       url('../fonts/titilliumweb-light-webfont.woff') format('woff'),
+       url('../fonts/titilliumweb-bold-webfont.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+
+}
+
+@font-face {
+  font-family: 'titillium-regular';
+  src: url('../fonts/titilliumweb-regular-webfont.woff2') format('woff2'),
+       url('../fonts/titilliumweb-regular-webfont.woff') format('woff'),
+       url('../fonts/titilliumweb-bold-webfont.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "titillium-regular",sans-serif !important;
+  background: #EBEDF0 !important;
+  color:#34493b;
+}

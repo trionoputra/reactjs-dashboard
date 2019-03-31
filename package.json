@@ -3,9 +3,20 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "history": "^4.9.0",
+    "http-build-query": "^0.7.0",
+    "moment": "^2.24.0",
     "react": "^16.8.6",
+    "react-bootstrap": "^0.32.4",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-intl": "^2.8.0",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-sidebar": "^3.0.2",
+    "react-sidemenu": "^1.1.0",
+    "redux": "^4.0.1",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",

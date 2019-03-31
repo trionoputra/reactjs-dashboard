@@ -1,0 +1,20 @@
+{
+  "login": "MASUK",
+  "log in": "masuk",
+  "username": "Nama penguna",
+  "password": "Kata kunci",
+  "about": "Tentang",
+  "welcome" : "Selamat datang",
+  "setting" : "Pengaturan",
+  "sub about 1" : "sub tentang 1",
+  "logout" : "keluar",
+  "dashboard" : "Beranda",
+  "change language" : "Ubah bahasa",
+  "today" : "hari ini",
+  "about page" : "tentang halaman",
+  "reactjs dashboard" : "Beranda ReactJS",
+  "page not found" : "halaman tidak ditemukan",
+  "the page are you looking for doesnt seem to exist" : "Halaman yang anda cari <br/> sepertinya tidak ada",
+  "currency" : "mata uang",
+  "value" : "nilai" 
+}

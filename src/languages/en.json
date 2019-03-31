@@ -1,0 +1,21 @@
+{
+    "login": "LOGIN",
+    "log in": "Log In",
+    "username": "Username",
+    "password": "Password",
+    "about": "About",
+    "welcome" : "Welcome",
+    "setting" : "Setting",
+    "sub about 1" : "sub about 1",
+    "logout" : "logout",
+    "dashboard" : "Dashboard",
+    "change language" : "Change Language",
+    "today" : "Today",
+    "about page" : "About Page",
+    "reactjs dashboard" : "ReactJS Dashboard",
+    "page not found" : "page not found",
+    "the page are you looking for doesnt seem to exist" : "the page are you looking for <br/> doesnt seem to exist",
+    "currency" : "currency",
+    "value" : "value" 
+  }
+  
