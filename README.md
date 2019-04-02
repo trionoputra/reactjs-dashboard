@@ -31,9 +31,9 @@ $ cd reactjs-dashboard/
 $ npm install
 $ npm start
 ```
-<img src="page1.png" width="250" alt="ReactJS Dashboard preview 1"></a>
-<img src="page2.png" width="250" alt="ReactJS Dashboard preview 2"></a>
-<img src="page3.png" width="250" alt="ReactJS Dashboard preview 3"></a>
+<img src="page1.png" width="250" alt="ReactJS Dashboard preview 1"></img>
+<img src="page2.png" width="250" alt="ReactJS Dashboard preview 2"></img>
+<img src="page3.png" width="250" alt="ReactJS Dashboard preview 3"></img>
 
 ## Features
 - Login Page
